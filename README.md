@@ -1,3 +1,5 @@
 # ChatApp
-![alt text](https://drive.google.com/file/d/1w26APb-tSOJ-AQVSm6QsytclcfUGBIQC/view?usp=sharing)
-![alt text](https://drive.google.com/file/d/17y22OvVsPr9Ow-powlynzwPniUuDXtwa/view?usp=sharing)
+
+An online chat application made on web, using web sockets, by the library socket.io.
+The server side is written in node.js and express.js.
+Database connectivity is given using MongoDB and mongoose.
